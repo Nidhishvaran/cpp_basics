@@ -1,0 +1,161 @@
+body{
+    background-color: #FDB750;
+    
+}
+.page_container{
+    display:flex;
+    justify-content: center;
+    background-color: #FDB750;
+    padding:2%;
+}
+#back{
+    margin-right:8%;
+}
+a button{
+    color:green;
+}
+
+button{
+    background-color: transparent;
+    border: none;
+}
+.container{
+    background-color: #FDB750;
+    margin: 2%;
+    border-radius: 10%;
+    padding:2%;
+}
+span{
+    color:#FC2E20;
+}
+.sub_heading_div{
+    width:96%;
+    display:flex;
+    justify-content: center;
+    padding:2%;
+    background-color: #FDB750;
+    
+}
+#main{
+    margin-top: 2%;
+    margin-left: auto;
+    margin-right:auto;
+    width:72%;
+    border:0.1px solid black;
+}
+#namespace{
+    margin-top: 2%;
+    margin-left: auto;
+    margin-right:auto;
+    width:72%;
+    border:0.1px solid black;
+}
+#iostream{
+    margin-left: auto;
+    margin-right:auto;
+    width:72%;
+    border:0.1px solid black;
+}
+#programming{
+    margin: 2%;
+    padding:2%;
+    border:0.5px solid black;
+    
+}
+.days{
+    background-color: #FD7F20;
+    
+    margin-bottom:1.2%;
+}
+.days:hover{
+    background-color: black;
+    
+}
+.days .content{
+    display:flex;
+    justify-content: center;
+    text-decoration: none;
+    
+   
+    
+}
+.days .content:hover{
+    display:flex;
+    justify-content: center;
+    text-decoration: none;
+    color:#FD7F20;
+   
+}
+.output{
+    background-color: black;
+   
+}
+.content{
+    padding:2%;
+}
+output{
+    
+    
+    color:aliceblue;
+    width:300px;
+    
+    padding :1%;
+}
+.code{
+    border:2px solid black;
+    margin-bottom: 2%;
+    width:100%;
+    
+}
+.content{
+    border: 2px solid black;
+    margin-bottom:2%;
+}
+tab{
+    color:orangered;
+}
+a{
+    text-decoration: none;
+    color:black;
+}
+.heading{
+    display:flex;
+    justify-content: center;
+
+}
+codespace{
+    display: flex;
+    justify-content: center;
+}
+code{
+    padding:2%;
+    background-color: rgb(137, 134, 134);
+    color:black;
+    width:300px auto;
+    display: flex;
+    
+    
+}
+#note{
+    background-color: red;
+}
+#concept{
+    background-color: green;
+}
+.compiler_div{
+    border:.2px solid black;
+    width:fit-content;
+    background-color: #ee8c40;
+    padding:.5%;
+}
+#recap h1{
+    display:flex;
+    justify-content: center;
+    text-decoration:underline;
+}
+#recap{
+    color:black;
+    background-color: rgb(230, 184, 33);
+}
+
+

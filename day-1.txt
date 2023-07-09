@@ -1,0 +1,17 @@
+                                            Day-1
+Introduction:
+C++ is a cross-platform language that can be used to create high-performance applications.
+C++ was developed by Bjarne Stroustrup, as an extension to the C language.
+C++ gives programmers a high level of control over system resources and memory.
+The language was updated 4 major times in 2011, 2014, 2017, and 2020 to C++11, C++14, C++17, C++20
+
+
+what is iostream ?
+To perform any input and output operations in C++, we need to use iostream header files. Without an < iostream > header file, we cannot take input from the user or print any output.
+
+what is Namespace ?
+Namespace is primarily used in programming languages where the same name may be used for different objects. It is created to group together those names that might be repeated elsewhere within the same or interlinked programs, objects and elements.
+using namespace std;
+
+what is main ?
+The function named main is a special function in all C++ programs; it is the function called when the program is run. The execution of all C++ programs begins with the main function, regardless of where the function is actually located within the code. int main()
